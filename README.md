@@ -34,7 +34,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Screenshot](img/hw11ss1.PNG)
 ![Screenshot](img/hw11ss2.PNG)
 ![Screenshot](img/hw11ss3.PNG)
+![Screenshot](img/hw11s.PNG)
+![Screenshot](img/hw11ss4.PNG)
 
 ## Links
-![Website Link](https://juliannotetaker.herokuapp.com/)
+![Website Link: https://juliannotetaker.herokuapp.com/](https://juliannotetaker.herokuapp.com/)
 ![Github](https://github.com/rileyale001/Professional-Notetaker)
